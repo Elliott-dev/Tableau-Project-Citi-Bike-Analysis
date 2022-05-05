@@ -41,7 +41,12 @@ However, while the data has been regularly updated, the team has yet to implemen
 * **Advanced:** A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.**************
 
 **Finally, I created my final presentation**
-* Created a Tableau story that brings together the visualizations, requested maps, and dashboards.
+* Created a Tableau story that brings together the visualizations, requested maps, and dashboards
+
+![Citi Bike Analysis](https://user-images.githubusercontent.com/94668201/167020609-41c470bf-877b-458a-9a2b-d50e78c43f50.png)
+
+![Citi Bike Analysis_cnt](https://user-images.githubusercontent.com/94668201/167020626-79e5f477-72b5-48cb-8838-590e6c3693fb.png)
+
 
 ## Considerations
 
