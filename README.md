@@ -54,6 +54,10 @@ My audience will be city officials, public administrators, and heads of New York
 
 ## Problems Encountered
 
-* I needed be creative in how you combine each of the CSV files because each file contained 1M+ records. 
-
 * Data was not consistent and clean throughout the analysis. 
+*  **Solved By: ** 
+*  Checking for null values, dropping unclean and null values, and cleaning dataframes using python in jupyter notebook. Used concat function to combine all three excel files into a single dataframe. 
+* I needed be creative in how you combine each of the CSV files because each file contained 1M+ records. 
+* **Solved By: ** 
+* I did an ETL process move data file from the jupter notebook in PostGreSQL database((https://www.citibikenyc.com/system-data). I created a connection to PostgreSQL database to read in the large 4M+ record file. I checked for a successful connection to the database and confirmed that the tables had been created, and I also confirmed by querying the database. 
+
